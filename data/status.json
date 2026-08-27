@@ -1,1 +1,16 @@
-{}
+{
+  "retraction_watch_rows": 72040,
+  "crossref_notices": 10826,
+  "both": 4519,
+  "crossref_only": 6307,
+  "total": 78347,
+  "crossref_years": [
+    2025,
+    2026
+  ],
+  "updated_at": "2026-08-27T03:19:50Z",
+  "row_count": 78347,
+  "files": [
+    "data/retractions.csv.gz"
+  ]
+}
